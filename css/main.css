@@ -1,8 +1,8 @@
 body {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-size: 20px;
-  color: #eee;
-  background-color: #000;
+  color: green;
+  background-color: pink;
 }
 p {
   line-height: 1.5;
@@ -27,7 +27,7 @@ a {
 }
 a:hover,
 a:focus {
-  color: #fff;
+  color: pink;
      transition: color .3s;
     outline: none;
     text-shadow:none;
@@ -38,7 +38,7 @@ a img:focus {
   outline: none;
 }
 blockquote {
-  color: #808080;
+  color: green;
   font-style: italic;
 }
 hr.small {
@@ -405,4 +405,3 @@ body {
 .fa-stack-2x {
  color: black;
 }
-
